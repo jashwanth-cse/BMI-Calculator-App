@@ -1,0 +1,5 @@
+*.jks
+*.keystore
+gradle.properties
+local.properties
+*.apk   # optional — you may want to avoid committing APKs to the repo
